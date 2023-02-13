@@ -1,7 +1,7 @@
 package lab0.java;
 import java.util.Scanner;
 
-public class pangkatFactorial {
+public class PangkatFactorial {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
