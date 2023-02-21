@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LYZ_C_2206029645_MartinMarcelinoTarigan_Lab01  {
+public class IPK_Discount  {
     public static void main(String[] args) {
 
         // Menginisiasi input sebagai Scanner
