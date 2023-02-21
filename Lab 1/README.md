@@ -1,0 +1,5 @@
+![Lab 01 - Toko Fotokopi Dek Depe_page-0001](https://user-images.githubusercontent.com/113441970/220217859-53a195a7-e75d-40b5-9740-e3e1d4a34be9.jpg)
+![Lab 01 - Toko Fotokopi Dek Depe_page-0002](https://user-images.githubusercontent.com/113441970/220217872-cf5e30d9-bb4f-4426-9982-73f7a76da1bd.jpg)
+![Lab 01 - Toko Fotokopi Dek Depe_page-0003](https://user-images.githubusercontent.com/113441970/220217881-de766255-69f6-4ee7-82d9-9d2092172684.jpg)
+![Lab 01 - Toko Fotokopi Dek Depe_page-0004](https://user-images.githubusercontent.com/113441970/220217905-9d083c48-a84e-4451-8be6-00411d30ee91.jpg)
+![Lab 01 - Toko Fotokopi Dek Depe_page-0005](https://user-images.githubusercontent.com/113441970/220217911-c121de8f-4977-42bc-a605-ec676963708c.jpg)
